@@ -27,3 +27,9 @@ https://ieeexplore.ieee.org/document/9163101
 You can find test images from 
 The Berkeley Segmentation Dataset and Benchmark:<br>
 https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
+
+<br>
+<br>
+<strong>Useful links (compared methods included):</strong><br>
+https://github.com/bonlime/keras-deeplab-v3-plus
+https://github.com/divamgupta/image-segmentation-keras
