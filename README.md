@@ -20,7 +20,7 @@ https://ieeexplore.ieee.org/document/9163101
 
 
 ### <strong>[Please cite as]:</strong>
->  EGüngör, E., & Özmen, A. (2020). Coarse Segmentation With GDD Clustering Using Color and Spatial Data. IEEE Access, 8, 144880-144891. 
+>  Güngör, E., & Özmen, A. (2020). Coarse Segmentation With GDD Clustering Using Color and Spatial Data. IEEE Access, 8, 144880-144891. 
 
 
 <br>
