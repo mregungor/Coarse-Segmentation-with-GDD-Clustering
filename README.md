@@ -32,4 +32,5 @@ https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
 <br>
 <strong>Useful links (compared methods included):</strong><br>
 https://github.com/bonlime/keras-deeplab-v3-plus
+<br>
 https://github.com/divamgupta/image-segmentation-keras
